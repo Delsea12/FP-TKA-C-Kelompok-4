@@ -11,10 +11,14 @@
 
 # Output Final Project
 ## introduction
-Pada Project kali ini, kami ...
+Pada Project kali ini, Dalam menyelesaikan permasalahan pada soal, Kami menggunakan dua platform yang berbeda yaitu Digital Ocean dan Vagrant. Dari percobaan menggunakan dua platform ini akan di berikan kesimpulan di akhir mana yang lebih baik.
  
 ## Digital Ocean
-### A. Arsitektur + tabel Harga 
+### A. Arsitektur dan Tabel Harga 
+- Arsitektur
+![image](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/102176304/49481292-0e26-4f1c-bca4-ec53e4efad32)
+- Tabel Harga
+![image](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/102176304/5928f197-6935-4199-b333-cfbf6c2a1c3a)
 ### B. Langkah implementasi 
 ### C. Hasil pengujian endpoint 
 ### D. Hasil pengujian locust
@@ -27,7 +31,7 @@ Pada Project kali ini, kami ...
 
 ## Vagrant
 
-### A. Arsitektur + tabel Harga 
+### A. Arsitektur dan Tabel Harga 
 ### B. Langkah implementasi 
 ### C. Hasil pengujian endpoint  
 ### D. Hasil pengujian locust 
