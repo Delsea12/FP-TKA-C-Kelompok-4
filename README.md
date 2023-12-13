@@ -10,7 +10,7 @@
 7. Nathania Elirica Aliyah - 5027211057
 
 # Output Final Project
-## introduction
+## Introduction
 Pada Project kali ini, Dalam menyelesaikan permasalahan pada soal, Kami menggunakan dua platform yang berbeda yaitu Digital Ocean dan Vagrant. Dari percobaan menggunakan dua platform ini akan di berikan kesimpulan di akhir mana yang lebih baik.
  
 ## Digital Ocean
