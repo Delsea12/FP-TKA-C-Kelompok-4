@@ -118,10 +118,13 @@ Worker 2 | 1vCPU, 2GB Memory
 2. Get Order
    ![GetVagrant](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100693191/25c4aba4-5bdd-4f2a-be9e-3276af456ce9)
 
-3. Update an Order by ID
+3. Get a Specific Order by ID
+   ![GetSpecificVagrant](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100693191/18b9df3f-a8b0-4a71-824e-687f911b3c10)
+
+4. Update an Order by ID
    ![UpdateVagrant](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100693191/480baab4-e20e-4cb7-bee9-9e9816e047c7)
 
-4. Delete an Order by ID
+5. Delete an Order by ID
    ![DeleteVagrant](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100693191/60a6bcc4-4455-4891-a8ae-92bf2f912ca2)
 
 
