@@ -20,11 +20,15 @@ Pada Project kali ini, Dalam menyelesaikan permasalahan pada soal, Kami mengguna
 ![image](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/102176304/49481292-0e26-4f1c-bca4-ec53e4efad32)
 
 - Tabel Harga
+  
 Spesifikasi ke-1
+
 ![untitled](https://cdn.discordapp.com/attachments/901344920361656355/1184785764890968134/image.png?ex=658d3cba&is=657ac7ba&hm=5ab84628923df4aafaf0d58991595325bc9ae6032d1d557c5c2ff4ff788d06af&)
 
 Spesifikasi ke-2
+
 ![untitled](https://cdn.discordapp.com/attachments/901344920361656355/1184787369380040734/image.png?ex=658d3e39&is=657ac939&hm=b752cb778452c3f059f786798b883299e150bbc32f8fdb5842335667fa182422&)
+
 ### B. Langkah implementasi 
 ### C. Hasil pengujian endpoint 
 ### D. Hasil pengujian locust
