@@ -111,7 +111,20 @@ Worker 2 | 1vCPU, 2GB Memory
 
 ### B. Langkah implementasi 
 
-### C. Hasil pengujian endpoint  
+### C. Hasil pengujian endpoint
+1. Post Order
+   ![PostVagrant](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100693191/3eba3a0e-2cdb-4f30-bac9-43664fc24fab)
+
+2. Get Order
+   ![GetVagrant](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100693191/25c4aba4-5bdd-4f2a-be9e-3276af456ce9)
+
+3. Update an Order by ID
+   ![UpdateVagrant](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100693191/480baab4-e20e-4cb7-bee9-9e9816e047c7)
+
+4. Delete an Order by ID
+   ![DeleteVagrant](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100693191/60a6bcc4-4455-4891-a8ae-92bf2f912ca2)
+
+
 ### D. Hasil pengujian locust 
 - 800 user 25 spawn rate
 
