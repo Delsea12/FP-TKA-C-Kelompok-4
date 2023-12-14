@@ -103,6 +103,12 @@ Spesifikasi ke-2
 ### A. Arsitektur dan Tabel Harga
 ![image](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100693191/f13645f2-c30f-47f6-b512-71d3826a87d5)
 
+Workers | Specifications
+------- | --------------
+Worker 1 | 1vCPU, 2GB Memory
+Worker 2 | 1vCPU, 2GB Memory
+
+
 ### B. Langkah implementasi 
 
 ### C. Hasil pengujian endpoint  
