@@ -49,6 +49,59 @@ Spesifikasi ke-2
 
 ### A. Arsitektur dan Tabel Harga 
 ### B. Langkah implementasi 
+#### Langkah Implementasi Digital Ocean
+
+1. Buat database MongoDB pada Digital Ocean
+
+<a href="https://ibb.co/xMs0hcX"><img src="https://i.ibb.co/Jzd4nbm/fptka-nomer1-1.jpg" alt="fptka-nomer1-1" border="0"></a>
+
+<a href="https://ibb.co/tz9WX84"><img src="https://i.ibb.co/nBF5Czb/fptka-nomer1-2.jpg" alt="fptka-nomer1-2" border="0"></a>
+
+2. Pada connection details, copy connection string 
+
+<a href="https://ibb.co/RbmvBJG"><img src="https://i.ibb.co/W5wxPRN/fptka-nomer2.jpg" alt="fptka-nomer2" border="0"></a>
+
+3. Buka MongoDB Compass, paste connection string dari Digital Ocean 
+
+<a href="https://ibb.co/f2fGRKs"><img src="https://i.ibb.co/JKVFLb9/fptka-nomer3.jpg" alt="fptka-nomer3" border="0"></a>
+
+4. Buat koleksi database baru dengan nama database "myDatabase" dan nama koleksi "orders"
+
+<a href="https://ibb.co/4R4vMcP"><img src="https://i.ibb.co/SwVY02R/fptka-nomer4.jpg" alt="fptka-nomer4" border="0"></a>
+
+5. Masukkan database sesuai dengan variabel yang diatur 
+
+<a href="https://ibb.co/jvQ8XDg"><img src="https://i.ibb.co/4ZXFrpP/fptka-nomer5.jpg" alt="fptka-nomer5" border="0"></a>
+
+6. Buat Workers (2) dengan cara create droplets. 
+
+| Workers                 | Specifications                                       |
+|-------------------------|-------------------------------------------------------|
+| Worker 1                | - 1 GB / 1 Intel CPU                                  |
+|                         | - 35 GB NVMe SSDs                                     |
+|                         | - 1000 GB transfer                                   |
+| Worker 2                | - 2 GB / 1 Intel CPU                                  |
+|                         | - 70 GB NVMe SSDs                                     |
+|                         | - 2 TB transfer                                       |
+
+<a href="https://ibb.co/54f0Qv2"><img src="https://i.ibb.co/4t5qbMJ/fptka-nomer6-1.jpg" alt="fptka-nomer6-1" border="0"></a>
+
+<a href="https://ibb.co/ssqkx5P"><img src="https://i.ibb.co/frHB68S/fptka-nomer6-2.jpg" alt="fptka-nomer6-2" border="0"></a>
+
+7. Install dependencies dan deploy Workers 
+
+<a href="https://ibb.co/h9M1jDb"><img src="https://i.ibb.co/yPRB1Wt/fptka-nomer7-1.jpg" alt="fptka-nomer7-1" border="0"></a>
+
+<a href="https://ibb.co/C0R3dPh"><img src="https://i.ibb.co/WKm49Vg/fptka-nomer7-2.jpg" alt="fptka-nomer7-2" border="0"></a>
+
+8. Buat Load Balancer dan tambahkan kedua worker  
+
+<a href="https://ibb.co/vqZcrC1"><img src="https://i.ibb.co/H4nKML7/fptka-nomer8-1.jpg" alt="fptka-nomer8-1" border="0"></a>
+
+<a href="https://ibb.co/WfsvM1y"><img src="https://i.ibb.co/zZNVBwR/fptka-nomer8-2.jpg" alt="fptka-nomer8-2" border="0"></a>
+
+9. Jika Load Balancer sudah bekerja, jalankan file locust dan lakukan testing locust dengan memasukkan IP Load Balancer. 
+
 ### C. Hasil pengujian endpoint  
 ### D. Hasil pengujian locust 
 - 800 user 25 spawn rate
