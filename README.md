@@ -30,25 +30,7 @@ Spesifikasi ke-2
 
 ![untitled](https://cdn.discordapp.com/attachments/901344920361656355/1184787369380040734/image.png?ex=658d3e39&is=657ac939&hm=b752cb778452c3f059f786798b883299e150bbc32f8fdb5842335667fa182422&)
 
-### B. Langkah implementasi 
-### C. Hasil pengujian endpoint 
-### D. Hasil pengujian locust
-- 500 user 25 spawn rate
-
-![500-25-60s](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/102176304/e7a33936-91cb-45f3-a6b8-e274920f7664)
-
-- 500 user 50 spawn rate
-
-![500-50-60s](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/102176304/f2ea8895-bfc8-4eda-aa75-1eab377ae2da)
-
-- 500 user 100 spawn rate
-
-![500-100-60s](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/102176304/0ec97bcd-28c5-4d0e-9993-d8ec333db8bd)
-
-## Vagrant
-
-### A. Arsitektur dan Tabel Harga 
-### B. Langkah implementasi 
+### B. Langkah implementasi
 #### Langkah Implementasi Digital Ocean
 
 1. Buat database MongoDB pada Digital Ocean
@@ -102,6 +84,24 @@ Spesifikasi ke-2
 
 9. Jika Load Balancer sudah bekerja, jalankan file locust dan lakukan testing locust dengan memasukkan IP Load Balancer. 
 
+### C. Hasil pengujian endpoint 
+### D. Hasil pengujian locust
+- 500 user 25 spawn rate
+
+![500-25-60s](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/102176304/e7a33936-91cb-45f3-a6b8-e274920f7664)
+
+- 500 user 50 spawn rate
+
+![500-50-60s](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/102176304/f2ea8895-bfc8-4eda-aa75-1eab377ae2da)
+
+- 500 user 100 spawn rate
+
+![500-100-60s](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/102176304/0ec97bcd-28c5-4d0e-9993-d8ec333db8bd)
+
+## Vagrant
+
+### A. Arsitektur dan Tabel Harga 
+### B. Langkah implementasi 
 ### C. Hasil pengujian endpoint  
 ### D. Hasil pengujian locust 
 - 800 user 25 spawn rate
