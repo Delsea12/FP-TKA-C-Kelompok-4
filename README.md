@@ -1,17 +1,18 @@
 # FP-TKA-C-Kelompok-4
 
-### Anggota Kelompok :
-1. Della Setyowati - 5027211044
-2. I Gusti Agung B.M.S. - 5027211046
-3. Caroline Permatasari - 5027211048
-4. Naufal Ammar Saputra - 5027211052
-5. Brigita Naraduhita P.P. - 5027211055
-6. Gilbert Immanuel H. - 5027211056
-7. Nathania Elirica Aliyah - 5027211057
+Nama Anggota Kelompok | NRP
+------------------- | --------------
+Della Setyowati | 5027211044
+I Gusti Agung B.M.S. | 5027211046
+Caroline Permatasari | 5027211048
+Naufal Ammar Saputra | 5027211052
+Brigita Naraduhita P.P. | 5027211055
+Gilbert Immanuel H. | 5027211056
+Nathania Elirica Aliyah | 5027211057
 
 # Output Final Project
 ## Introduction
-Pada Project kali ini, Dalam menyelesaikan permasalahan pada soal, Kami menggunakan dua platform yang berbeda yaitu Digital Ocean dan Vagrant. Dari percobaan menggunakan dua platform ini akan di berikan kesimpulan di akhir mana yang lebih baik.
+Pada project kali ini, dalam menyelesaikan permasalahan pada soal, kami menggunakan dua platform yang berbeda yaitu Digital Ocean dan Vagrant. Dari percobaan menggunakan dua platform ini akan di berikan kesimpulan di akhir mana yang lebih baik.
  
 ## Digital Ocean
 ### A. Arsitektur dan Tabel Harga 
