@@ -100,8 +100,11 @@ Spesifikasi ke-2
 
 ## Vagrant
 
-### A. Arsitektur dan Tabel Harga 
+### A. Arsitektur dan Tabel Harga
+![image](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100693191/f13645f2-c30f-47f6-b512-71d3826a87d5)
+
 ### B. Langkah implementasi 
+
 ### C. Hasil pengujian endpoint  
 ### D. Hasil pengujian locust 
 - 800 user 25 spawn rate
