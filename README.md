@@ -85,6 +85,21 @@ Spesifikasi ke-2
 9. Jika Load Balancer sudah bekerja, jalankan file locust dan lakukan testing locust dengan memasukkan IP Load Balancer. 
 
 ### C. Hasil pengujian endpoint 
+1. Post Order
+   ![PostVagrant](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100693191/3eba3a0e-2cdb-4f30-bac9-43664fc24fab)
+
+2. Get Order
+   ![GetVagrant](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100693191/25c4aba4-5bdd-4f2a-be9e-3276af456ce9)
+
+3. Get a Specific Order by ID
+   ![GetSpecificVagrant](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100693191/18b9df3f-a8b0-4a71-824e-687f911b3c10)
+
+4. Update an Order by ID
+   ![UpdateVagrant](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100693191/480baab4-e20e-4cb7-bee9-9e9816e047c7)
+
+5. Delete an Order by ID
+   ![DeleteVagrant](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100693191/60a6bcc4-4455-4891-a8ae-92bf2f912ca2)
+   
 ### D. Hasil pengujian locust
 - Device Carol
 - 500 user 25 spawn rate 60s
