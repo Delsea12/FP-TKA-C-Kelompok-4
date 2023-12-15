@@ -153,9 +153,10 @@ Worker 2 | 1vCPU, 2GB Memory
 ![image](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100349628/4f5d2f75-5060-4717-bd64-759708ebefe7)
 
 2. Buat db baru dengan nama database "orders_db"
+   
 ![image](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100349628/46a1abf0-322b-4693-b49a-c671265449ef)
 
-3. Masukkan database sesuai dengan variabel yang diatur 
+2. Masukkan database sesuai dengan variabel yang diatur 
 ![image](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100349628/9c53970e-1140-4953-bce1-9cc2f6af4f28)
 
 4. Buat Workers (2) pada VagrantFile
