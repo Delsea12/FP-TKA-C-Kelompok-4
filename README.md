@@ -86,19 +86,19 @@ Spesifikasi ke-2
 
 ### C. Hasil pengujian endpoint 
 1. Post Order
-   ![PostVagrant](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100693191/3eba3a0e-2cdb-4f30-bac9-43664fc24fab)
+   ![post](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/102176304/06c02fce-e4d2-4075-8333-14a819a0ea4f)
 
 2. Get Order
-   ![GetVagrant](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100693191/25c4aba4-5bdd-4f2a-be9e-3276af456ce9)
+   ![get](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/102176304/b35657b0-3493-4ec7-9c06-05b3c2d55a67)
 
 3. Get a Specific Order by ID
-   ![GetSpecificVagrant](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100693191/18b9df3f-a8b0-4a71-824e-687f911b3c10)
+   ![get id](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/102176304/e3659f5a-db83-4bf5-b363-e1dd772fc69b)
 
 4. Update an Order by ID
-   ![UpdateVagrant](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100693191/480baab4-e20e-4cb7-bee9-9e9816e047c7)
+   ![put](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/102176304/0ab65776-352f-4e64-a935-f18ab8268fa3)
 
 5. Delete an Order by ID
-   ![DeleteVagrant](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100693191/60a6bcc4-4455-4891-a8ae-92bf2f912ca2)
+   ![del](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/102176304/128a57ed-c40d-4f23-a94c-66441cd2cc18)
    
 ### D. Hasil pengujian locust
 - Device Carol
