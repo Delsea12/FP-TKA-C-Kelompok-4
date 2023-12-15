@@ -101,7 +101,6 @@ Spesifikasi ke-2
    ![del](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/102176304/128a57ed-c40d-4f23-a94c-66441cd2cc18)
    
 ### D. Hasil pengujian locust
-- Device Carol
 - 500 user 25 spawn rate 60s
 
 ![500-25](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/102176304/313598b7-138e-42f8-9e32-0511edfdde49)
@@ -114,7 +113,6 @@ Spesifikasi ke-2
 
 ![500-100](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/102176304/058bbb26-1397-49cf-92fb-d98ad1751f3a)
 
-- Device Alya
 - 500 user 25 spawn rate 60s
 
 ![500-25-60s](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/102176304/e7a33936-91cb-45f3-a6b8-e274920f7664)
