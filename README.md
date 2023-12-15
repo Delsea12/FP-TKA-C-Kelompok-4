@@ -183,5 +183,8 @@ Worker 2 | 1vCPU, 2GB Memory
 ![max-100-60s](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/102176304/0c37cf78-55ee-4572-b90c-bd5d273db0a1)
 
 
-# Kesimpulan
-Kesimpulannya ...
+# Kesimpulan & Saran
+- Setelah melakukan pengecekan harga, vagrant bisa digunakan secara free dan digital ocean berbayar. Tetapi dari segi fitur dan jaminan dalam jangka panjang, Digital Ocean lebih baik dengan harga yang terjangkau pula
+- Setelah percobaan yang kami lakukan, jumlah load balancer dan jumlah worker sebaiknya sama, karena ketika mencoba menggunakan 1 load balancer dan 2 worker terjadi down pada kedua worker tersebut
+
+![down](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/102176304/a954021d-8339-4306-9b16-3d70a9d8a466)
