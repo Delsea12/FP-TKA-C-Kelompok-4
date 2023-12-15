@@ -127,6 +127,11 @@ Spesifikasi ke-2
 
 ![500-100-60s](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/102176304/0ec97bcd-28c5-4d0e-9993-d8ec333db8bd)
 
+- RPS Maksimum
+
+![RPSMax](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100693191/aa6c3a46-255a-4367-bad5-672491799e95)
+
+
 ## Vagrant
 
 ### A. Arsitektur dan Tabel Harga
