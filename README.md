@@ -143,7 +143,33 @@ Worker 1 | 1vCPU, 2GB Memory
 Worker 2 | 1vCPU, 2GB Memory
 
 
-### B. Langkah implementasi 
+### B. Langkah implementasi
+#### Langkah Implementasi Vagrant
+1. Buat database MongoDB
+   
+2. Buat koleksi database baru dengan nama database "myDatabase" dan nama koleksi "orders"
+<a href="https://ibb.co/4R4vMcP"><img src="https://i.ibb.co/SwVY02R/fptka-nomer4.jpg" alt="fptka-nomer4" border="0"></a>
+
+3. Masukkan database sesuai dengan variabel yang diatur 
+<a href="https://ibb.co/jvQ8XDg"><img src="https://i.ibb.co/4ZXFrpP/fptka-nomer5.jpg" alt="fptka-nomer5" border="0"></a>
+
+4. Buat Workers (2) pada VagrantFile
+![Worker](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100693191/c2321224-35f8-4d45-90da-66f1476d9be1)
+
+Workers | Specifications
+------- | --------------
+Worker 1 | 1vCPU, 2GB Memory
+Worker 2 | 1vCPU, 2GB Memory
+
+5. Run app.py hingga muncul url-nya. Untuk mengecek database-nya bisa menggunakan postman, request ke url/orders. Jika statusnya sudah 200 ok, maka database sudah bisa berjalan dengan normal
+![GetVagrant](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100693191/25c4aba4-5bdd-4f2a-be9e-3276af456ce9)
+
+6. Deploy VM untuk worker dengan installasi requirement yang diperlukan di worker
+![Installasi](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100693191/aac95734-3dc7-4b52-b2e7-bcdcfe5850e2)
+
+7. Jika tidak ada error, maka selanjutnya bisa dilakukan testing locust
+
+
 
 ### C. Hasil pengujian endpoint
 1. Post Order
