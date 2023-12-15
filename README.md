@@ -150,12 +150,13 @@ Worker 2 | 1vCPU, 2GB Memory
 ### B. Langkah implementasi
 #### Langkah Implementasi Vagrant
 1. Buat database MongoDB
-   
-2. Buat koleksi database baru dengan nama database "myDatabase" dan nama koleksi "orders"
-<a href="https://ibb.co/4R4vMcP"><img src="https://i.ibb.co/SwVY02R/fptka-nomer4.jpg" alt="fptka-nomer4" border="0"></a>
+![image](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100349628/4f5d2f75-5060-4717-bd64-759708ebefe7)
+
+2. Buat db baru dengan nama database "orders_db"
+![image](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100349628/46a1abf0-322b-4693-b49a-c671265449ef)
 
 3. Masukkan database sesuai dengan variabel yang diatur 
-<a href="https://ibb.co/jvQ8XDg"><img src="https://i.ibb.co/4ZXFrpP/fptka-nomer5.jpg" alt="fptka-nomer5" border="0"></a>
+![image](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100349628/9c53970e-1140-4953-bce1-9cc2f6af4f28)
 
 4. Buat Workers (2) pada VagrantFile
 ![Worker](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100693191/c2321224-35f8-4d45-90da-66f1476d9be1)
