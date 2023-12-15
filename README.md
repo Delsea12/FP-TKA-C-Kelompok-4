@@ -167,7 +167,7 @@ Worker 2 | 1vCPU, 2GB Memory
 6. Deploy VM untuk worker dengan installasi requirement yang diperlukan di worker
 ![Installasi](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/100693191/aac95734-3dc7-4b52-b2e7-bcdcfe5850e2)
 
-7. Jika tidak ada error, maka selanjutnya bisa dilakukan testing locust
+7. Jika tidak ada error, maka selanjutnya bisa dilakukan testing
 
 
 
