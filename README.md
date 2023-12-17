@@ -227,3 +227,9 @@ Sehingga dari percobaan ini kami menyarankan untuk menggunakan worker dengan spe
 
 - Perlu dilakukan testing di jaringan yang stabil pula untuk mendapatkan maksimum peak concurrency yang optimal.
 
+# Revisi
+
+- 5000 user 100 spawn rate 60s (Peak)
+
+![max-100-60s](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/102176304/0c37cf78-55ee-4572-b90c-bd5d273db0a1)
+
