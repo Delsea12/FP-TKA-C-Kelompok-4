@@ -220,12 +220,13 @@ Worker 2 | 1vCPU, 2GB Memory
 
 # Kesimpulan & Saran
 - Setelah melakukan pengecekan harga, vagrant bisa digunakan secara free dan digital ocean berbayar. Tetapi dari segi fitur dan jaminan dalam jangka panjang, Digital Ocean lebih baik dengan harga yang terjangkau pula.
-- Berdasarkan percobaan pada digital ocean, diketahui bahwa ketika spesifikasi worker berbeda maka menjadikan beban kinerjanya tidak seimbang dan berakibat loadbalancer menjadi down.
-Sehingga dari percobaan ini kami menyarankan untuk menggunakan worker dengan spesifikasi yang tinggi dan seimbang agar kinerja loadbalancer dapat lebih seimbang. Karena ketika mencoba menggunakan 1 load balancer dan 2 worker terjadi down pada kedua worker tersebut.
+- Berdasarkan percobaan pada digital ocean, diketahui bahwa ketika spesifikasi worker berbeda maka menjadikan beban kinerjanya tidak seimbang dan berakibat load balancer menjadi down.
+Sehingga dari percobaan ini kami menyarankan untuk menggunakan worker dengan spesifikasi yang tinggi dan seimbang agar kinerja load balancer dapat lebih seimbang. Karena ketika mencoba menggunakan 1 load balancer dan 2 worker terjadi down pada kedua worker tersebut.
 
 ![down](https://github.com/Delsea12/FP-TKA-C-Kelompok-4/assets/102176304/a954021d-8339-4306-9b16-3d70a9d8a466)
 
 - Perlu dilakukan testing di jaringan yang stabil pula untuk mendapatkan maksimum peak concurrency yang optimal.
+- Opsi lain untuk melakukan testing adalah dengan melakukannya di worker baru pada DigitalOcean, bukan dari local device agar hasil testing dapat lebih testing.
 
 # Revisi
 
